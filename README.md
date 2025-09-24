@@ -1,10 +1,6 @@
 # BLINKIT_ANALYSIS-PYTHON_PROJECT
 # Blinkit Sales Analysis 📊  
-
-<p align="center">
-  <img src="https://seeklogo.com/images/B/blinkit-logo-CCCB4E2120-seeklogo.com.png" alt="Blinkit Logo" width="200"/>
-</p>
-
+<img width="3500" height="3500" alt="Image" src="https://github.com/user-attachments/assets/fdec91ec-85b4-4320-8d95-6edf9e73cd33" />
 ## 📌 Project Overview  
 This project focuses on analyzing Blinkit sales data using **Python**.  
 The aim is to extract valuable business insights through data cleaning, transformation, and visualization.  
