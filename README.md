@@ -46,8 +46,7 @@ The analysis highlights sales patterns, product demand, and customer preferences
 
 ## 📊 Sample Visualization  
 
-<img width="1657" height="774" alt="image" src="C:/Users/Harsh singh/OneDrive/Pictures/Screenshots/2025-09-24 (11).png"/></p>
-
+<img width="787" height="471" alt="Image" src="https://github.com/user-attachments/assets/f859e89e-bd47-4423-a920-e17cb954edfd" />
 ---
 
 ## ✅ Conclusion  
