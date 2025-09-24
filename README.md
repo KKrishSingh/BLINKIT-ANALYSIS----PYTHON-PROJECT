@@ -46,7 +46,7 @@ The analysis highlights sales patterns, product demand, and customer preferences
 
 ## 📊 Sample Visualization  
 
-![Sales by Item Type](https://raw.githubusercontent.com/Tarun9900/blinkit--sales-Analysis/main/images/sample_sales_chart.png)
+"C:\Users\Harsh singh\OneDrive\Pictures\Screenshots\2025-09-24 (11).png"
 
 ---
 
